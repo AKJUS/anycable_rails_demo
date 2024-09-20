@@ -5,7 +5,7 @@ ruby '~> 3.3.0'
 
 gem 'rails', '~> 7.1.0'
 gem 'pg', '~> 1.0'
-gem 'puma', '~> 6.0'
+gem 'puma', '~> 6.4', '>= 6.4.3'
 gem 'redis', '~> 5.0'
 gem 'grpc', '~> 1.37'
 gem 'anycable-rails', '~> 1.5'
