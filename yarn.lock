@@ -170,10 +170,10 @@
   resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.0.4.tgz#70a3ca56809f7aaabb80af2f9c01ae51e1a8ed41"
   integrity sha512-tz4oM+Zn9CYsvtyicsa/AwzKZKL+ITHWkhiu7x+xF77clh2b4Rm+s6xnOgY/sGDWoFWZmtKsE95hxBPkgQQNnQ==
 
-"@rails/ujs@^7.0.4":
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-7.0.4.tgz#7fe5387d2d82b0547fdfc6667b424ec119c86b1e"
-  integrity sha512-UY9yQxBvtqXzXScslgPwZoQd16T0+z3P6BQS4lZDJFg5xVuMIgHkHQI6dhyWEt5l/qwbGaYX+YiZu6J+oxWPOw==
+"@rails/ujs@^7.1.400":
+  version "7.1.400"
+  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-7.1.400.tgz#b2a76bdccb5197b9e866954536106386c87cfab5"
+  integrity sha512-YwvXm3BR5tn+VCAKYGycLejMRVZE3Ionj5gFjEeGXCZnI0Rpi+7dKpmyu90kdUY7dRUFpHTdu9zZceEzFLl38w==
 
 acorn-node@^1.8.2:
   version "1.8.2"
