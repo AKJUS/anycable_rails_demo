@@ -23,7 +23,7 @@ gem 'propshaft'
 
 group :development, :test do
   gem 'debug', '1.7.0'
-  gem 'rspec-rails', '~> 6.0'
+  gem 'rspec-rails', '~> 8.0', '>= 8.0.0'
 end
 
 group :development do
